@@ -25,13 +25,12 @@ email: stephenyang@berkeley.edu
 description: >-
   I am a Master's student at Harvard University.
 
-
-  Previously, I was a ...
+  This website is still under constructions.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stephenjyang.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: Stepenyang
+twitter_username: Stepenyang
+github_username: StephenYangjz
 google_scholar: BzyVxVUAAAAJ
 # google_analytics: G-MFWSBLRKG0
 
