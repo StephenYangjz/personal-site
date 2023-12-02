@@ -4,7 +4,7 @@
   description: "We predict future 3D scenes given past 2D observations, such as 2D ego-centric image in autonomous driving settings."
   project_page: "https://www.carff.website/"
   # arxiv: 2305.16289
-  image: augmentation.jpg
+  image: carff.jpg
   authors:
     - stephenyang
     - khushidesai
