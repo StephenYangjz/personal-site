@@ -23,9 +23,11 @@ name: Stephen (Jiezhi) Yang
 position: Student 
 email: stephenyang@berkeley.edu
 description: >-
-  I am a Master's student at Harvard University.
+  I am a first year Master's student in Computational Science Engineering at [Harvard University](https://www.harvard.edu/).
+  
+  I received my B.A. in Computer Science and Cognitive Science from [UC Berkeley](https://www.berkeley.edu/), where I received high distinction and graduated from the [EECS Honors Program](https://eecs.berkeley.edu/resources/undergrads/honors).
 
-  This website is still under constructions.
+  I am interested in computer vision, especially 3D vision and Neural Radiance Fields (NeRFs). At Berkeley, I am fortunate to work under Prof. [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/) and [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), with Ph.D. candidate [Charles Packer](https://people.eecs.berkeley.edu/~cpacker/), [Lisa Dunlap](https://www.lisabdunlap.com/), and [Alvin Wan](https://alvinwan.com/).
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stephenjyang.com" # the base hostname & protocol for your site, e.g. http://example.com
