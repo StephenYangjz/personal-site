@@ -1,6 +1,5 @@
-# stephenjyang.com
+# stephenjyang.com Personal Website
 
-- Make sure to update all relevant fields in `_config.yml` and `_data`.
 - Built on this template: keunhong.github.io
 
 # License
