@@ -2,8 +2,10 @@
   title: "CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting"
   venue: Submitted to CVPR 2024
   description: "We predict future 3D scenes given past 2D observations, such as 2D ego-centric image in autonomous driving settings."
-  project_page: "https://www.carff.website/"
-  # arxiv: 2305.16289
+  project_page: "https://www.carff.website/deanon"
+  # arxiv: https://arxiv.org/abs/2305.16289
+  pdf: carff_pdf.html
+  github: https://github.com/StephenYangjz/CARFF  
   image: carff.jpg
   authors:
     - stephenyang
@@ -17,7 +19,9 @@
   venue: NeurIPS 2023
   description: "We used natural language descriptions with vision models to generate useful variations of the training data for data augmentation"
   project_page: "https://lisadunlap.github.io/alia-website/"
-  arxiv: 2305.16289
+  arxiv: https://arxiv.org/abs/2305.16289
+  pdf: https://arxiv.org/pdf/2305.16289.pdf
+  github: https://github.com/lisadunlap/ALIA
   image: augmentation.jpg
   authors:
     - lisabdunlap
