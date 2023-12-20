@@ -17,7 +17,7 @@
 - id: hypernerf
   title: "Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation"
   venue: NeurIPS 2023
-  description: "We used natural language descriptions with vision models to generate useful variations of the training data for data augmentation"
+  description: "We used natural language descriptions with vision models to generate useful variations of the training data for data augmentation."
   project_page: "https://lisadunlap.github.io/alia-website/"
   arxiv: https://arxiv.org/abs/2305.16289
   pdf: https://arxiv.org/pdf/2305.16289.pdf
