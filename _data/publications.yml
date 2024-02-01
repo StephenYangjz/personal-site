@@ -3,15 +3,17 @@
   venue: Submitted to CVPR 2024
   description: "We predict future 3D scenes given past 2D observations, such as 2D ego-centric image in autonomous driving settings."
   project_page: "https://www.carff.website/deanon"
-  # arxiv: https://arxiv.org/abs/2305.16289
-  pdf: carff_pdf.html
+  arxiv: https://arxiv.org/abs/2401.18075
+  pdf: https://arxiv.org/pdf/2401.18075.pdf
   github: https://github.com/StephenYangjz/CARFF  
   image: carff.jpg
   authors:
     - stephenyang
     - khushidesai
-    - harshilbhatia
     - charlespacker
+    - harshilbhatia
+    - nicholasrhinehart
+    - rowanmcallister
     - josephgonzalez
   
 - id: hypernerf
