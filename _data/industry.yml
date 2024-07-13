@@ -1,5 +1,13 @@
+
 - id: hypernerf
-  title: "Research Intern, Robert Bosch GmbH"
+  title: "Machine Learning Engineer Intern, Qualcomm Inc."
+  date: "May - August 2024"
+  description: "Spearheaded the pivotal deep learning efforts in new sensor research with the multi-media group."
+  # arxiv: 2305.16289
+  image: q.jpg
+
+- id: hypernerf
+  title: "Software Engineer Intern, Robert Bosch GmbHm (Research Department)"
   date: "May - August 2021"
   description: "Researched on modeling Radar, LIDAR, and camera data for infrastructure based autonomous driving."
   # arxiv: 2305.16289

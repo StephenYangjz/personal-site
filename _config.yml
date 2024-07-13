@@ -23,16 +23,14 @@ name: Jiezhi "Stephen" Yang
 position: Student 
 email: stephenyang@berkeley.edu
 description: >-
-  I am a first year Master's student in Computational Science Engineering at [Harvard University](https://www.harvard.edu/). I received my B.A. in Computer Science and Cognitive Science from [UC Berkeley](https://www.berkeley.edu/), where I graduated from the [EECS Honors Program](https://eecs.berkeley.edu/resources/undergrads/honors) with high distinction.
+  I am a second year Master's student in Computational Science Engineering at [Harvard University](https://www.harvard.edu/), cross-registered at [MIT](https://www.mit.edu/). I received my B.A. in Computer Science and Cognitive Science from [UC Berkeley](https://www.berkeley.edu/), where I graduated from the [EECS Honors Program](https://eecs.berkeley.edu/resources/undergrads/honors) with high distinction.
   
+  I am interested in 3D vision and embodied intelligence. At Berkeley, I was fortunate to work at [RISE](https://rise.cs.berkeley.edu/) and [BAIR](https://bair.berkeley.edu/) Lab under Prof. [Joseph Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/) and [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), with Ph.D. candidate [Charles Packer](https://people.eecs.berkeley.edu/~cpacker/), [Lisa Dunlap](https://www.lisabdunlap.com/), and [Alvin Wan](https://alvinwan.com/). I also appreciate my experience beiefly collaborating with [Harvard CVG](https://vcg.seas.harvard.edu/), [Interactive Robotics Group](https://computationalrobotics.seas.harvard.edu/) and [MIT CSAIL](https://www.csail.mit.edu/).
   
-  I am interested in computer vision, especially 3D vision and Neural Radiance Field (NeRF). At Berkeley, I was fortunate to work at [RISE](https://rise.cs.berkeley.edu/) and [BAIR](https://bair.berkeley.edu/) Lab under Prof. [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/) and [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), with Ph.D. candidate [Charles Packer](https://people.eecs.berkeley.edu/~cpacker/), [Lisa Dunlap](https://www.lisabdunlap.com/), and [Alvin Wan](https://alvinwan.com/).
-  
-  
-  I am open to research or internship opportunities. Please contact me at stephenyang[AT]berkeley[DOT]edu.
+  I am on the job market for 2025 New Grad opportunities. Please contact me at stephenyang[AT]berkeley[DOT]edu!
 
 misc: >-
-  I was born in the beautiful, German-style coastal city of [Qingdao](https://en.wikipedia.org/wiki/Qingdao), or Tsingtao. I like VR games and photography, espacially aerial photography with drones. I am also trying to improve my very much out of practice piano skills...  
+  I was born in the beautiful, German-style coastal city of [Tsingtao](https://en.wikipedia.org/wiki/Qingdao). I like VR games and photography, espacially aerial photography with drones. I am also trying to improve my very much out of practice piano skills...  
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stephenjyang.com" # the base hostname & protocol for your site, e.g. http://example.com
