@@ -7,7 +7,7 @@
   image: q.jpg
 
 - id: hypernerf
-  title: "Software Engineer Intern, Robert Bosch GmbHm (Research Department)"
+  title: "Software Engineer Intern, Robert Bosch (Research Department)"
   date: "May - August 2021"
   description: "Researched on modeling Radar, LIDAR, and camera data for infrastructure based autonomous driving."
   # arxiv: 2305.16289
