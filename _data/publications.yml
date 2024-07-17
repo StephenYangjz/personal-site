@@ -15,7 +15,7 @@
     - nicholasrhinehart
     - rowanmcallister
     - josephgonzalez
-  
+
 - id: hypernerf
   title: "Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation"
   venue: NeurIPS 2023
@@ -32,4 +32,21 @@
     - stephenyang
     - josephgonzalez
     - trevordarrell
+
+- id: hypernerf
+  title: "DreamScenes: 3D Textured Scene Generation Via Compositional Diffusions"
+  venue: NeurIPS 2023
+  description: "Text-conditioned 3D generation via multistep diffusion, LLM, ControlNet, and differentiable rendering."
+  # project_page: "https://lisadunlap.github.io/alia-website/"
+  # arxiv: https://arxiv.org/abs/2305.16289
+  # pdf: https://arxiv.org/pdf/2305.16289.pdf
+  # github: https://github.com/lisadunlap/ALIA
+  image: gen.jpg
+  # authors:
+  #   - lisabdunlap
+  #   - alyssaumino
+  #   - hanzhang
+  #   - stephenyang
+  #   - josephgonzalez
+  #   - trevordarrell
 
