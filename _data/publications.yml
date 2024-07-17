@@ -35,11 +35,11 @@
 
 - id: hypernerf
   title: "DreamScenes: 3D Textured Scene Generation Via Compositional Diffusions"
-  venue: NeurIPS 2023
+  venue: Draft Paper
   description: "Text-conditioned 3D generation via multistep diffusion, LLM, ControlNet, and differentiable rendering."
   # project_page: "https://lisadunlap.github.io/alia-website/"
   # arxiv: https://arxiv.org/abs/2305.16289
-  # pdf: https://arxiv.org/pdf/2305.16289.pdf
+  pdf: https://drive.google.com/file/d/1MJmOrvJ4dL10X3uIJD23iy-g2-lQXseG/view
   # github: https://github.com/lisadunlap/ALIA
   image: gen.jpg
   # authors:
