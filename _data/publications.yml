@@ -39,7 +39,7 @@
   description: "Text-conditioned 3D generation via multistep diffusion, LLM, ControlNet, and differentiable rendering."
   # project_page: "https://lisadunlap.github.io/alia-website/"
   # arxiv: https://arxiv.org/abs/2305.16289
-  pdf: https://drive.google.com/file/d/1MJmOrvJ4dL10X3uIJD23iy-g2-lQXseG/view
+  pdf: https://drive.google.com/file/d/1FejzgnpE8BlXf8Qv1Yp0nUysOcd2qaZC/view
   # github: https://github.com/lisadunlap/ALIA
   image: gen.jpg
   # authors:
