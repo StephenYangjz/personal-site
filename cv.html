@@ -1,19 +1,100 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en-US">
 
-
-<!-- <iframe src="./Resume_StephenYang.pdf" width="100%" height="100%">
-</iframe> -->
-
-
-<!-- <!DOCTYPE html> -->
-<html>
 <head>
-    <title>Stephen's Resume</title>
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <title>{{ site.name }} - Resume</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@700&family=Noto+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="{{ '/css/fontawesome.all.min.css' | relative_url }}" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" rel="stylesheet">
+  <link href="{{ '/css/bulma.min.css' | relative_url }}" rel="stylesheet">
+  <link href="{{ '/css/index.css' | relative_url }}" rel="stylesheet">
+  <link href="./css/cv.css" rel="stylesheet">
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script defer src="{{ '/js/fontawesome.all.min.js' | relative_url }}"></script>
+  <script src="{{ '/js/index.js' | relative_url }}"></script>
 </head>
+
 <body>
-    <!-- <h1>PDF in an iFrame</h1> -->
-    <iframe src="./Resume_StephenYang.pdf" width="100%" height="100%">
-        This browser does not support PDFs. Please download the PDF to view it: 
-        <a href="./Resume_StephenYang.pdf">Download PDF</a>
-    </iframe>
+
+  <section class="hero">
+    <div class="hero-body container is-max-desktop">
+      <div class="columns is-vcentered">
+        <div class="column is-4">
+          <div class="portrait">
+            <img src="{{ '/images/portrait.jpg' | relative_url }}" />
+          </div>
+        </div>
+        <div class="column">
+          <h1 class="title">
+            <b>{{ site.name }}'s Resume</b>
+          </h1>
+          <div class="content has-text-justified">
+            <p>You can view or download my resume using the buttons below.</p>
+            <div class="buttons">
+              <a class="external-link button is-light" href="./Resume_StephenYang.pdf" download>
+                <span class="icon"><i class="fas fa-download"></i></span>
+                <span>Download Resume</span>
+              </a>
+              <a class="external-link button is-light" href="./Resume_StephenYang.pdf" target="_blank">
+                <span class="icon"><i class="fas fa-file-pdf"></i></span>
+                <span>View Resume</span>
+              </a>
+              <a class="button is-light" href="index.html">
+                <span class="icon"><i class="fas fa-arrow-left"></i></span>
+                <span>Back to Main Page</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="content footer-links has-text-centered">
+        <a href="mailto:{{ site.email }}">
+          <i class="fas fa-envelope"></i>
+        </a>
+        <a class="external-link" href="https://github.com/{{ site.github_username }}">
+          <i class="fab fa-github"></i>
+        </a>
+        <a class="external-link" href="https://scholar.google.com/citations?user={{ site.google_scholar }}">
+          <i class="ai ai-google-scholar"></i>
+        </a>
+      </div>
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              The webpage is built on <a href="https://github.com/keunhong/keunhong.github.io">this template</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
 </body>
+
 </html>
